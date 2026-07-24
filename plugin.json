@@ -1,0 +1,10 @@
+{
+  "plugin": {
+    "name": "apf_autoload",
+    "description": "Automatic cassette loader framework for APF systems",
+    "version": "0.3.4",
+    "author": "Open-source MAME community project",
+    "type": "plugin",
+    "start": "false"
+  }
+}
